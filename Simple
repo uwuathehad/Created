@@ -1,5 +1,4 @@
 -- Gui to Lua
--- ***CH I FOUND UR CODE
 
 local ScreenGui = Instance.new("ScreenGui")
 local MainFrame = Instance.new("Frame")
